@@ -1,14 +1,9 @@
 <!-- Banner -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=230&section=header&text=S4muelPlayer&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Vibe%20Coding%20%26%20Software%20Architecture&descSize=20&descAlignY=58&animation=fadeIn" alt="Banner" />
+<img width="100%" src="assets/banner.svg" alt="S4muelPlayer" />
 
-<!-- Typing animation -->
-<a href="https://github.com/S4muelPlayer">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Olá%2C+eu+sou+o+S4muelPlayer+🚀;Shark+Client+Owner;Transformando+ideias+em+software+na+velocidade+do+pensamento;Boa+arquitetura+primeiro%2C+código+rápido+depois+⚡" alt="Typing SVG" />
-</a>
-
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/📍_Fortaleza%2C_CE-0d1117?style=for-the-badge&labelColor=161b22" />
 <img src="https://img.shields.io/badge/Shark_Client-Owner-8957e5?style=for-the-badge&labelColor=161b22" />
@@ -97,7 +92,7 @@ Sou um desenvolvedor focado em **alta produtividade** e na criação de soluçõ
 
 **Pegue os peixes 🐟, fuja das bombas 💣 e bata meu recorde!**
 
-<a href="https://claude.ai/artifact/DMQRW4YL1rsa4Xo4y881kT">
+<a href="https://s4muelplayer.github.io/shark-game/">
   <img src="https://img.shields.io/badge/🦈_JOGAR_SHARK_DODGE-1f6feb?style=for-the-badge&labelColor=8957e5" />
 </a>
 
@@ -119,6 +114,6 @@ Sou um desenvolvedor focado em **alta produtividade** e na criação de soluçõ
 
 <img src="https://komarev.com/ghpvc/?username=S4muelPlayer&label=Visitas&color=1f6feb&style=flat-square&labelColor=161b22" alt="Visitas" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=120&section=footer" alt="Footer" />
+<img width="100%" src="assets/footer.svg" alt="" />
 
 </div>
